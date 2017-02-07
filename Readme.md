@@ -13,4 +13,3 @@ Assignment report can be accessed [Here](paper/Dokumentacja.pdf)(In Polish)
 ## Screenshots
 
 ![Balloon] (images/balloon.png)
-![Gui]     (images/gui.png)
